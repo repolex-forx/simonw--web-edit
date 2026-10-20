@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/web-edit/commit/0a24583937e16a8ed8391a7dfa36640b55c5729b",
       "git:hexsha": "0a24583937e16a8ed8391a7dfa36640b55c5729b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.1a2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1a2",
+      "repolex:parsedAt": "2026-10-20T10:43:28.415507+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/web-edit/commit/5ae14cf1f67d750864fd6b1ec0fddf6dba4dc702",
