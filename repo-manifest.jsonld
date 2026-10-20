@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/web-edit/commit/0a24583937e16a8ed8391a7dfa36640b55c5729b",
       "git:hexsha": "0a24583937e16a8ed8391a7dfa36640b55c5729b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1a2"
     },
     {
