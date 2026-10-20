@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "web-edit",
+  "versions": [
+    {
+      "commit": "0a24583937e16a8ed8391a7dfa36640b55c5729b",
+      "tag": "0.1a2",
+      "parsed_at": "2026-10-20T10:43:28.415979+00:00"
+    }
+  ]
+}
